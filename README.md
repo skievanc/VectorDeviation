@@ -1,6 +1,6 @@
 # VectorDeviation
 Functions for calculating vector deviation metrics in R.
-All vecor deviation calculaations are based on the work of Robert G. Pontius. 
+All vecor deviation calculations are based on the work of Robert G. Pontius. 
 
 
 Functions for calculating vector deviations between two vector datasets:
